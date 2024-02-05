@@ -150,3 +150,22 @@ section {
         margin-bottom: 10px;
     }
 }
+
+.hobbies-interests p:first-child {
+    margin-top: 0; 
+}
+
+.hobbies-interests p:last-child {
+    margin-bottom: 0; 
+}
+
+
+.education-section p:first-child,
+.work-section p:first-child {
+    margin-top: 0; 
+}
+
+.education-section p:last-child,
+.work-section p:last-child {
+    margin-bottom: 0; 
+}
